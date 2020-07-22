@@ -18,7 +18,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 ### 🛠 - Languages and Tools
-
+<a href="https://icons8.com/icon/108784/javascript" target="_blank" ><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 
 ### 📞 - Contact
 
