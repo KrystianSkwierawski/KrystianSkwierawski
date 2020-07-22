@@ -37,5 +37,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ### 📞 - Contact
 
 - Discord: szefnudy#4379
+- Email: krystian.ernest.skwierawski@gmail.com
 
 
