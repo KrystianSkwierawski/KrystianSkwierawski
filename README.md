@@ -16,6 +16,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianSkwierawski&repo=ToDoList)](https://github.com/KrystianSkwierawski/ToDoList)
 
+<br/>
 
 ### 🛠 - Languages and Tools
 <a href="https://icons8.com/icon/108784/javascript"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -28,6 +29,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 </a>
 <a href="https://icons8.com/icon/20906/git"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 
+<br/>
 
 ### 📞 - Contact
 
