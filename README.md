@@ -25,6 +25,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <a href="https://icons8.com/icon/108784/javascript"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://icons8.com/icon/20909/html-5"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="https://icons8.com/icon/21278/css3"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+![1200px-Bootstrap_logo svg](https://user-images.githubusercontent.com/52860350/88174288-58449500-cc24-11ea-9140-ac123bc5da02.png)
 <a href="https://icons8.com/icon/ezj3zaVtImPg/visual-studio-2019"><img src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png"/></a>
 <a href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
 <a href="https://icons8.com/icon/20906/git"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
