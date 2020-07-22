@@ -36,9 +36,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### 📞 - Contact
 
-````bash
-> Discord: szefnudy#4379
-> Email: krystian.ernest.skwierawski@gmail.com
-````
+<a href="https://icons8.com/icon/30888/discord"><img src="https://img.icons8.com/ios-filled/50/000000/discord-logo.png" align="left" /></a> <h2 align="left" > szefnudy#4379</h2>
+
+<a href="https://icons8.com/icon/ho8QlOYvMuG3/gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" align="left" /></a> <h2 align="left" > krystian.ernest.skwierawski@gmail.com</h2>
+
 
 
