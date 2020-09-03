@@ -43,7 +43,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <a href="https://icons8.com/icon/ho8QlOYvMuG3/gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" align="left" /></a> <h2 align="left" > krystian.ernest.skwierawski@gmail.com</h2>
 
 <a href="https://icons8.com/icon/13930/linkedinl"><img src="https://img.icons8.com/color/48/000000/linkedin.png" align="left" /></a>
-<a href="www.linkedin.com/in/krystian-skwierawski" ><h2 align="left">Krystian Skwierawski</h2></a>
+<a href="https://www.linkedin.com/in/krystian-skwierawski/" ><h2 align="left">Krystian Skwierawski</h2></a>
  
 
 
