@@ -14,6 +14,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ### 👷 - Currently working on
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianSkwierawski&repo=GuessWhoOnline)](https://github.com/KrystianSkwierawski/GuessWhoOnline)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianSkwierawski&repo=Messenger)](https://github.com/KrystianSkwierawski/Messenger)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianSkwierawski&repo=MyPortfolio)](https://github.com/KrystianSkwierawski/MyPortfolio)
 
