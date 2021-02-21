@@ -13,6 +13,7 @@ Full-stack .NET Developer with 2 years non-commercial experience. I want to deve
 ### 👷 - Currently working on
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianSkwierawski&repo=MyPortfolio)](https://github.com/KrystianSkwierawski/MyPortfolio)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianSkwierawski&repo=MultiStopWatch)](https://github.com/KrystianSkwierawski/MultiStopWatch)
 
 
 <br/>
