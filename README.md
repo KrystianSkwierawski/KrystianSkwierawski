@@ -22,12 +22,12 @@ Full-stack .NET Developer with 2 years non-commercial experience. I want to deve
 <a href="https://icons8.com/icon/uJM6fQYqDaZK/typescript"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 <a href="https://icons8.com/icon/20909/html-5"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="https://icons8.com/icon/21278/css3"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-![angular](https://user-images.githubusercontent.com/52860350/108859231-4c231a80-75ed-11eb-87d2-11bc62329da5.png)
 ![1200px-Bootstrap_logo svg](https://user-images.githubusercontent.com/52860350/88174288-58449500-cc24-11ea-9140-ac123bc5da02.png)
 <a href="https://icons8.com/icon/ezj3zaVtImPg/visual-studio-2019"><img src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png"/></a>
 <a href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
 ![1200px- NET_Core_Logo svg](https://user-images.githubusercontent.com/52860350/88170559-31836000-cc1e-11ea-8cdc-7583ec404c93.png)
 <a href="https://icons8.com/icons/set/sass"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
+![angular](https://user-images.githubusercontent.com/52860350/108859231-4c231a80-75ed-11eb-87d2-11bc62329da5.png)
 
 
 
