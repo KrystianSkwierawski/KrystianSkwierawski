@@ -22,6 +22,7 @@ Full-stack .NET Developer with 2 years non-commercial experience. I want to deve
 <a href="https://icons8.com/icon/uJM6fQYqDaZK/typescript"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 <a href="https://icons8.com/icon/20909/html-5"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a href="https://icons8.com/icon/21278/css3"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+![angular](https://user-images.githubusercontent.com/52860350/108858157-23e6ec00-75ec-11eb-8203-10a8c7442a56.png)
 ![1200px-Bootstrap_logo svg](https://user-images.githubusercontent.com/52860350/88174288-58449500-cc24-11ea-9140-ac123bc5da02.png)
 <a href="https://icons8.com/icon/ezj3zaVtImPg/visual-studio-2019"><img src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png"/></a>
 <a href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
