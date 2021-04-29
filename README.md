@@ -28,7 +28,7 @@ I am Full-stack .NET Developer with 2 years non-commercial experience. I want to
 ![1200px- NET_Core_Logo svg](https://user-images.githubusercontent.com/52860350/88170559-31836000-cc1e-11ea-8cdc-7583ec404c93.png)
 <a href="https://icons8.com/icons/set/sass"><img src="https://img.icons8.com/color/48/000000/sass.png"/></a>
 ![angular](https://user-images.githubusercontent.com/52860350/108859231-4c231a80-75ed-11eb-87d2-11bc62329da5.png)
-
+<a href="https://icons8.com/icons/set/git"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 
 
 <br/>
