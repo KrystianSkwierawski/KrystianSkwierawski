@@ -4,7 +4,7 @@
 
 <div>
  <p>
-I am Full-stack .NET Developer with 2 years non-commercial experience. I want to develop towards web application. I am also a little bit into wpf and winforms.
+I am Full-stack .NET Developer with 2 years non-commercial experience. I want to develop towards .NET Web applications. I am also a little bit into wpf and winforms.
 </p>
 </div>
 
