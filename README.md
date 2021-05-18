@@ -11,7 +11,8 @@ I am Full-stack .NET Developer with 2 years non-commercial experience. I want to
 <br/>
 
 ### 👷 - Currently working on
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianSkwierawski&repo=MultiStopwatch)](https://github.com/KrystianSkwierawski/MultiStopwatch)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianSkwierawski&repo=GuessWhoOnline)](https://github.com/KrystianSkwierawski/GuessWhoOnline)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=KrystianSkwierawski&repo=Elsan)](https://github.com/KrystianSkwierawski/Elsan)
 
 
 <br/>
